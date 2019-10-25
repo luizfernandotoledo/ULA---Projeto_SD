@@ -28,7 +28,7 @@ int comparaString(char string[tam],char caract){
 
 
 
-int main(){
+int main(void){
     char string[tam];
     int freq;
     char caract;
