@@ -4,6 +4,7 @@
 #include <stdlib.h>
 #include <math.h>
 #define tam 40
+// primeiro projeto a nos aventurarmos hehehe
 
 char leString(char string[tam]){
     char caract;
